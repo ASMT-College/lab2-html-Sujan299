@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.submit{
+    padding: 2px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    /* font-size: x-large; */
+}
